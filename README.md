@@ -9,7 +9,7 @@
 **Hydro Vision** is a full-stack web application designed to forecast groundwater levels across major cities in India using an advanced **LSTM neural network**.  
 It transforms complex hydrological data into **beautiful, interactive visualizations**, empowering policymakers, researchers, and citizens to understand and act on water resource trends.
 
-**🔗 Live Demo:** [hydro-vision.netlify.app](https://hydro-vision.netlify.app)
+**🔗 Live Demo:** [hydro-vision.netlify.app](https://groundwater.netlify.app/)
 
 ---
 
