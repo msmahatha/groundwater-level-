@@ -165,7 +165,7 @@ function App() {
   useEffect(() => {
     const fetchCityData = async () => {
       try {
-        const response = await fetch('http://localhost:5001/api/all-cities-data');
+        const response = await fetch('https://groundwater-level.onrender.com/api/all-cities-data');
         if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
         setCities(data);
